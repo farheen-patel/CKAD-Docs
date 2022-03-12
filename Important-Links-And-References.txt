@@ -1,0 +1,7 @@
+Kubernetes Components: https://kubernetes.io/docs/concepts/overview/components/
+
+Understanding Kubernetes Objects: https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
+
+
+Kubernetes API: https://kubernetes.io/docs/reference/kubernetes-api/
+
